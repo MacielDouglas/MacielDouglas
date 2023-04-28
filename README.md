@@ -1,17 +1,13 @@
-### Hi there... olá amigo... hola ¿que tal? Sou Douglas Maciel👋
+<h1> Hi there... olá amigo... hola ¿que tal? Sou Douglas Maciel👋 <br>
+- 🔭 Estou trabalhando em Full-Stack con React, NojeJS, e MongoDB <br>
+- 🌱 Estou estudando React</h1>
 
-
-- 🔭 Estou trabalhando em Full-Stack con React, NojeJS, e MongoDB
-- 🌱 Estou estudando React
-
-<div>
-  <a href="https://github.com/MacielDouglas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macieldouglas&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macieldouglas&hide_progress=true)](https://github.com/macieldouglas/github-readme-stats)&theme=dark"/>
-
+ <div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacielDouglas&show_icons=true&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacielDouglas&layout=compact&theme=dark"/>
 </div>
 
-##
+<br>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Doug-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -24,3 +20,13 @@
 </div>
 
 ##
+<div>
+  <h2>Linguagens e Frameworks</h2>
+  <img src=https://progress-bar.dev/80?title=HTML />
+  <img src=https://progress-bar.dev/80?title=CSS />
+  <img src=https://progress-bar.dev/75?title=JAVASCRIPT />
+  <img src=https://progress-bar.dev/80?title=NODEJS  />
+  <img src=https://progress-bar.dev/85?title=MONGODB  />
+  <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
+  <img src=https://progress-bar.dev/85?title=REACT  />
+</div>
