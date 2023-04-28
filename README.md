@@ -1,6 +1,5 @@
 <h1> Hi there... olá amigo... hola ¿que tal? Sou Douglas Maciel👋 <br>
-- 🔭 Estou trabalhando em Full-Stack con React, NojeJS, e MongoDB <br>
-- 🌱 Estou estudando React</h1>
+👨‍💻 Trabalho com programação Full-Stack com React, NojeJS, e MongoDB <br>
 
  <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacielDouglas&show_icons=true&theme=dark"/>
