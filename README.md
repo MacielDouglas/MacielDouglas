@@ -31,3 +31,7 @@
   <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
   <img src=https://progress-bar.dev/85?title=REACT  />
 </div>
+
+<div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacielDouglas&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/MacielDouglas/github-readme-stats)
+</div>
