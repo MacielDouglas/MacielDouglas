@@ -20,7 +20,4 @@
     <img align="center" alt="Doug-MONGO" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
 </div>
 
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MacielDouglas&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/MacielDouglas/github-readme-stats)
 
